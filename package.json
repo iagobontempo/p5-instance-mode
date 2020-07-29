@@ -1,0 +1,16 @@
+{
+  "name": "p5tyest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "p5": "^1.1.9",
+    "parcel-bundler": "^1.12.4"
+  }
+}
